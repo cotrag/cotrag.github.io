@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a quantitative social science researcher with experience in economic consulting and political science research. My interests include consumer lending, survey research, and data visualization. I'm excited to apply the skills I have gained during my PhD coursework and research work to important applied problems.
+I am a quantitative social science researcher with experience in economic consulting and political science research. My work spans consumer lending data and cross-national survey research, with a focus on producing clear, reproducible analysis for a wide range of audiences.
 
 ## Skills
 

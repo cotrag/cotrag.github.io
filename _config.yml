@@ -22,7 +22,7 @@ repository               : "cotrag/cotrag.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Connor Tragesser"
   pronouns         : # example: "she/her"
   bio              : "PhD candidate in political science at Ohio State. Quantitative researcher with experience in economic consulting and applied data science."

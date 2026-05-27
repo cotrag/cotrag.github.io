@@ -7,16 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-#I am a quantitative researcher with experience in economic consulting and academic social science. As an analyst at [Charles River Associates](https://www.crai.com), I built data pipelines and econometric models supporting litigation, regulatory work, and financial research for clients in consumer lending and financial services. As a PhD candidate in political science at [The Ohio State University](https://polisci.osu.edu), I design and execute statistical analyses of electoral behavior and public opinion, with an emphasis on survey methodology and causal inference.
 
-#I work primarily in R and Python, with additional experience in Stata and SQL. My background spans large-scale consumer lending datasets, cross-national survey data, and policy simulation—contexts where the work demands precision, reproducibility, and the ability to communicate quantitative findings clearly to non-technical audiences.
-
-#I am interested in applied research, analytics, and data science roles in private sector settings where rigorous quantitative work connects to real decisions.
-
-words here 
-
-more words here
-
+I am a quantitative social science researcher with experience in economic consulting and political science research. My interests include consumer lending, survey research, and data visualization. I'm excited to apply the skills I have gained during my PhD coursework and research work to important applied problems.
 
 ## Skills
 

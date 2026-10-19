@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Connor Tragesser"
 title_separator          : "-"
 name                     : &name "Connor Tragesser"
-description              : &description "Connor Tragesser – quantitative researcher and data scientist"
+description              : &description "Connor Tragesser – quantitative researcher in causal inference, econometrics, and survey methods"
 url                      : https://cotrag.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cotrag/cotrag.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Connor Tragesser"
   pronouns         : # example: "she/her"
-  bio              : "PhD candidate in political science at Ohio State. Quantitative researcher with experience in economic consulting and applied data science."
+  bio              : "Ph.D. candidate in political science at Ohio State, specializing in causal inference. Former analyst at Charles River Associates."
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
   uri              : # URL
